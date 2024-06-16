@@ -1,6 +1,6 @@
 ## Armbian for RK3528 TV-box
 
-Tested on Vontar DQ08 and H96 Max M1.
+Tested on Vontar DQ08 , H96 Max M1 & HK1 RBOX.
 
 * H96 Max M1 is not recommended due to lack of essential ports.
 
